@@ -43,7 +43,7 @@ hr {
 }
 
 .section-title strong {
-	color: #e6e214;
+	color: #0CC;
   	font-size: 56px;
 }
 
@@ -104,7 +104,7 @@ hr {
   margin: 0 auto;
   width: 20%;
   height: 20%;
-  background-color: #e6e214;
+  background-color: #0CC;
   border-radius: 100%;
   -webkit-animation: sk-circleBounceDelay 1.2s infinite ease-in-out;
           animation: sk-circleBounceDelay 1.2s infinite ease-in-out;
@@ -203,12 +203,12 @@ hr {
     margin-bottom: 0;
 }
 .custom-navbar .navbar-brand  {
-  color: #e6e214;
+  color: #0CC;
   font-weight: 600;
   font-size: 24px;
 }
 .custom-navbar .navbar-brand .navbar-toggle {
-    background: #e6e214;
+    background: #0CC;
     padding: 4px 6px;
     font-size: 16px;
     color: #fff;
@@ -228,14 +228,14 @@ hr {
   outline: none;
 }
 .custom-navbar .nav li.active > a {
-      color: #e61414;
+      color: #0CC;
     }
 .custom-navbar .navbar-toggle {
         border: none;
         padding-top: 10px;
     }
 .custom-navbar .navbar-toggle .icon-bar {
-        background: #e61414;
+        background: #0CC;
         border-color: transparent;
     }
 @media(min-width:768px){
@@ -289,11 +289,11 @@ hr {
   transition: all 0.4s ease-in-out;
 }
 #home .btn:hover {
-  background: #e6e214;
+  background: #0CC;
   border-color: transparent;
 }
 #home .btn-danger {
-  background: #e6e214;
+  background: #0CC;
   border-color: transparent;
 }
 #home .btn-danger:hover {
@@ -334,7 +334,7 @@ hr {
 .nav-tabs > li.active > a,
 .nav-tabs > li.active > a:hover,
 .nav-tabs > li.active > a:focus {
-  color: #e6e214;
+  color: #0CC;
   cursor: default;
   background-color: transparent;
   border: 1px solid transparent;
@@ -357,7 +357,7 @@ hr {
   text-align: center;
 }
 #owners h3 {
-  color: #e6e214;
+  color: #0CC;
   font-size: 14px;
   font-weight: bold;
 }
@@ -410,7 +410,7 @@ hr {
 }
 
 #owners .social-icon li a:hover {
-  color: #e6e214;
+  color: #0CC;
 }
 
 
@@ -468,7 +468,7 @@ hr {
   text-transform: uppercase;
 }
 #donate .plan-one .btn {
-  background-color: #e6e214;
+  background-color: #0CC;
 }
 #donate .plan-two .btn {
   background-color: #ffa400;
@@ -491,9 +491,10 @@ footer {
   text-align: center;
   padding-top: 60px;
   padding-bottom: 60px;
+  background-size: cover;
 }
 footer p {
-  padding-top: 20px;
+  padding-top: 30px;
 }
 .social-icon {
   padding: 0;
@@ -516,7 +517,7 @@ footer p {
   transition: all 0.4s ease-in-out;
 }
 .social-icon li a:hover {
-  color: #e6e214;
+  color: #0CC;
 }
 
 @media screen and (min-width: 992px) {
