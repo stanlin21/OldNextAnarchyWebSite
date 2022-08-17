@@ -106,7 +106,6 @@ $(function(){
        "images/home-bg-slideshow9.jpg",
        "images/home-bg-slideshow10.jpg",
        "images/home-bg-slideshow11.jpg",
-       "images/home-bg-slideshow12.jpg",
         ],  {duration: 3000, fade: 750});
     });
   })
