@@ -97,8 +97,17 @@ $(function(){
     $('#home').backstretch([
        "images/home-bg-slideshow1.jpg", 
        "images/home-bg-slideshow2.jpg",
-       "images/home-bg-slideshow3.jpg",       
-        ],  {duration: 2000, fade: 750});
+       "images/home-bg-slideshow3.jpg", 
+       "images/home-bg-slideshow4.jpg", 
+       "images/home-bg-slideshow5.jpg", 
+       "images/home-bg-slideshow6.jpg", 
+       "images/home-bg-slideshow7.jpg",
+       "images/home-bg-slideshow8.jpg",
+       "images/home-bg-slideshow9.jpg",
+       "images/home-bg-slideshow10.jpg",
+       "images/home-bg-slideshow11.jpg",
+       "images/home-bg-slideshow12.jpg",
+        ],  {duration: 3000, fade: 750});
     });
   })
 
